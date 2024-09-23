@@ -1,8 +1,31 @@
-# WanderBook - Shared Adventures
-441 Project Slayers Team Project
+# WanderBook
 
-WanderBook is a social media web application geared toward campers.
-This application is based on JavaScriptMastery's “Build and Deploy a Full Stack MERN Social Media App with Auth, Pagination, Comments | MERN Course,” www.youtube.com.
-It allows users to create and share posts, comment on posts, and like posts.
-The application also has search functionality with many available filters, increasing the relevance of posts returned.
-Users can also create custom checklists so that they never forget important items for their camping adventures.
+## Key Features
+
+- Campsite Search and Selection
+- Curated and Custom Packing Lists
+- User-Generated Content
+- Community and Sharing Features
+- Location Tagging and Filtered Searches
+- Mobile-Friendly Interface
+
+## Tools utilized:
+
+- ### Languages:
+    - HTML
+    - CSS
+    - JavaScript
+    - SQL
+
+- ### Frameworks and services:
+    - Node.js: Server-side logic and API handling.
+    - React.js: Dynamic front-end for user interaction.
+    - Axios: For making HTTP requests to the backend.
+    - MongoDB: Database management for campsite data and user information.
+ 
+- ### APIs Integrated:
+    - Camping API: Automatically populates the app with camping locations, availability, ans additional details, enhancing the user experience with real-time data.
+
+## Video Demo:
+
+[![Watch the video](https://img.youtube.com/AFmJ8YW52Nc&featu/maxresdefault.jpg)](https://www.youtube.com/watch?v=AFmJ8YW52Nc&feature=youtu.be)
